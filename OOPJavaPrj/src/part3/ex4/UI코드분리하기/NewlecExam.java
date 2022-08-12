@@ -1,3 +1,4 @@
+package part3.ex4.UI코드분리하기;
 import part3.ex4.UI코드분리하기.Exam;
 
 public class NewlecExam extends Exam{
